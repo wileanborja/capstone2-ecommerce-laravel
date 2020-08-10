@@ -1,0 +1,31 @@
+Username: zIpdBRomci
+
+Database name: zIpdBRomci
+
+Password: D45SThUgCc
+
+Server: remotemysql.com
+
+Port: 3306
+
+heroku config:set APP_NAME=Sakura
+
+heroku config:set APP_ENV=local
+
+heroku config:set APP_KEY=base64:yMqFQwCHvjLU9+HqFZon+0RXHzPcLAeH7c6lDT1Q3TM=
+
+
+heroku config:set DB_HOST=remotemysql.com
+heroku config:set DB_PORT=3306
+heroku config:set DB_DATABASE=zIpdBRomci
+heroku config:set DB_USERNAME=zIpdBRomci
+heroku config:set DB_PASSWORD=D45SThUgCc
+
+heroku config:set APP_URL=https://infinite-escarpment-11309.herokuapp.com/
+
+// FreeSQLDatabase
+Host: sql12.freesqldatabase.com
+Database name: sql12325720
+Database user: sql12325720
+Database password: zF9mFHpl6c
+Port number: 3306
